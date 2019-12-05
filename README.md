@@ -34,5 +34,5 @@
    
    2.npm install (to install node modules).
    
-   3.yarn start (to make the APIS on running state).
+   3.yarn start or npm start (to make the APIS on running state).
   
